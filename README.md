@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogishayb
+- 👋 Hi, I’m @yogishyb
 - 👀 I’m interested in java, android and web development
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on android, java / web based projects
