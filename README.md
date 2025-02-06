@@ -9,13 +9,30 @@
 <br/>
 <br/>
 
+## Skills
+
+> #### Front End
+>   - HTML
+>   - CSS
+>   - Java Script
+>   - React
+
+> #### Backend
+> - Java
+> - Spring boot
+
+> #### Backend Tools
+>  - Intellij Idea
+>  - Open telemetry (Jaeger)
+>  - Apache Kafka
+>  - ActiveMQ
 
 
-# Recent Learnings 
+# Recently Learned Skills
 - Camunda BPMN 
 - Distrubuted systems
 - OTEL Jaeger
-- Spring boot
+- Docker and Kubernates(AWS) -  in progress
 
 
 # Leet code
